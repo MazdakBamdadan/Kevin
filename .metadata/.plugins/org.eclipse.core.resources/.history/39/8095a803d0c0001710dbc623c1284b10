@@ -1,0 +1,8 @@
+package kevin1;
+
+public class MyMainClass {
+	static public void main (String []args) {
+		
+	}
+
+}

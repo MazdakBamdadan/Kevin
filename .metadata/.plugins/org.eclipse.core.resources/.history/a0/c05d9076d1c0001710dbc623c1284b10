@@ -1,0 +1,16 @@
+package kevin1;
+
+public class MyMainClass {
+	static public void main (String []args) {
+
+		rektangle rek_1 = new rektangle(10, 5);
+		rektangle rek_2 = new rektangle(1000, 10);
+		
+		
+		System.out.println ("Rekt_1 omkrest är = " + rek_1.omkrets());
+		System.out.println ("Rekt_2 omkrest är = " + rek_2.omkrets());
+		
+		
+	}
+
+}
